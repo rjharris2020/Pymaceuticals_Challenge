@@ -14,4 +14,4 @@ In a hypothetical senario, I am a senior data analyst at a company called Pymace
 7. Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
 8. Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 9. Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
-10. Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+10. Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Observations and insights are included at the top of the notebook.
